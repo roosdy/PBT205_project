@@ -1,5 +1,3 @@
-Sure, I can update the Readme to include running straight from Docker. Here is the updated Readme in markdown format:
-
 # Trading App
 
 This is a simple trading app that uses RabbitMQ to send and receive orders and trades.
